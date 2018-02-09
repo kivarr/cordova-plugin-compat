@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <plugin 
   xmlns="http://cordova.apache.org/ns/plugins/1.0" id="cordova-plugin-compat" version="1.2.1-dev">
   <name>Compat</name>
